@@ -1,0 +1,10 @@
+OnInit
+frame __init__
+<open file '123321', mode 'a' at 0x019DAA70> A pretent error message
+before main loop
+OnExit
+OnInit
+frame __init__
+<open file '123321', mode 'a' at 0x0196AA70> A pretent error message
+before main loop
+OnExit
